@@ -1,13 +1,13 @@
 A collection of my LeetCode questions to ace the coding interview! 
 <!---LeetCode  Topics Start-->
 # LeetCode Topics 
-## Array
+## Array:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0704-binary-search) |
-## Binary Search
+## Binary Search:
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -16,7 +16,7 @@ A collection of my LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-## Greedy
+## Greedy:
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
