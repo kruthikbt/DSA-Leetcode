@@ -11,7 +11,7 @@ A collection of my LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0704-binary-search) |
-## Dynamic Programming
+## Dynamic Programming:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kruthikbt/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
